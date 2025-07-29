@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the derivative of x^2?",
+    "answer": "The derivative of x² is 2x."
+  },
+  {
+    "question": "What is the integral of x?",
+    "answer": "The integral of x is (1/2)x^2 + C."
+  },
+  {
+    "question": "Solve for x: 2x + 3 = 11",
+    "answer": "Subtract 3 both sides: 2x = 8. Divide by 2: x = 4."
+  },
+  {
+    "question": "Factor the quadratic x^2 - 5x + 6",
+    "answer": "Factor: (x-2)(x-3)."
+  },
+  {
+    "question": "What is the derivative of sin(x)?",
+    "answer": "d/dx[sin(x)] = cos(x)."
+  },
+  {
+    "question": "What is the derivative of e^x?",
+    "answer": "d/dx[e^x] = e^x."
+  },
+  {
+    "question": "Compute the limit: lim_{x->0} (sin x)/x",
+    "answer": "Standard limit: 1."
+  },
+  {
+    "question": "Find the roots of x^2 - 4",
+    "answer": "x = ±2."
+  },
+  {
+    "question": "Simplify the expression: log(a) + log(b)",
+    "answer": "log(ab)"
+  },
+  {
+    "question": "What is the integral of cos(x)?",
+    "answer": "∫ cos(x) dx = sin(x) + C."
+  }
+]
