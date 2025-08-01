@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the derivative of sin(x)?",
+    "answer": "The derivative of sin(x) is cos(x)."
+  },
+  {
+    "question": "Solve the equation x^2 - 5x + 6 = 0.",
+    "answer": "The roots are x = 2 and x = 3."
+  },
+  {
+    "question": "Find the integral of 1/x.",
+    "answer": "The integral of 1/x is ln|x| + C."
+  }
+]
